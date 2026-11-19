@@ -1,0 +1,155 @@
+[en-us]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Six apps to watch a show. Now it's one. HolyArrs is one self-hosted app for your shows, movies and music."
+release_note = "Bundles holyarrs v1.1.4 from official Docker Hub"
+
+[de-de]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Sechs Apps, um eine Serie zu schauen. Jetzt ist es eine. HolyArrs ist eine selbstgehostete App für deine Serien, Filme und Musik."
+release_note = "Enthält holyarrs v1.1.4 vom offiziellen Docker Hub"
+
+[es-es]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Seis aplicaciones para ver una serie. Ahora es solo una. HolyArrs es una aplicación autoalojada para tus series, películas y música."
+release_note = "Incluye holyarrs v1.1.4 desde Docker Hub oficial"
+
+[fr-fr]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Six applications pour regarder une série. Maintenant, il n'y en a plus qu'une. HolyArrs est une application auto-hébergée pour vos séries, films et musiques."
+release_note = "Intègre holyarrs v1.1.4 depuis le Docker Hub officiel"
+
+[hu-hu]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Hat alkalmazás egy sorozat megtekintéséhez. Mostantól csak egy. A HolyArrs egy saját tárhelyen futó alkalmazás sorozataidhoz, filmjeidhez és zenéidhez."
+release_note = "Tartalmazza a holyarrs v1.1.4 verzióját a hivatalos Docker Hubról"
+
+[it-it]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Sei app per guardare una serie. Ora ce n'è una sola. HolyArrs è un'app self-hosted per le tue serie, i tuoi film e la tua musica."
+release_note = "Include holyarrs v1.1.4 dal Docker Hub ufficiale"
+
+[ja-jp]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "番組を見るのに6つものアプリが必要でした。今はこれ1つ。HolyArrsは、ドラマや映画、音楽を1つにまとめたセルフホスト型アプリです。"
+release_note = "公式Docker Hubのholyarrs v1.1.4を同梱"
+
+[ko-kr]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "프로그램 하나를 보기 위해 여섯 개의 앱을 썼습니다. 이제는 하나로 충분합니다. HolyArrs는 드라마, 영화, 음악을 위한 올인원 셀프 호스팅 앱입니다."
+release_note = "공식 Docker Hub의 holyarrs v1.1.4 번들 포함"
+
+[pl-pl]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Sześć aplikacji do oglądania jednego serialu. Teraz wystarczy jedna. HolyArrs to self-hostowana aplikacja na Twoje seriale, filmy i muzykę."
+release_note = "Zawiera holyarrs v1.1.4 z oficjalnego Docker Hub"
+
+[pt-pt]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Seis aplicações para ver uma série. Agora é apenas uma. O HolyArrs é uma aplicação auto-hospedada para as suas séries, filmes e música."
+release_note = "Inclui o holyarrs v1.1.4 do Docker Hub oficial"
+
+[ru-ru]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Шесть приложений для просмотра одного сериала. Теперь — только одно. HolyArrs — это единое автономное приложение для ваших сериалов, фильмов и музыки."
+release_note = "Включает holyarrs v1.1.4 из официального Docker Hub"
+
+[tr-tr]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Bir diziyi izlemek için altı farklı uygulama. Artık tek bir uygulama var. HolyArrs; dizileriniz, filmleriniz ve müzikleriniz için kendi sunucunuzda barındırabileceğiniz tek bir uygulamadır."
+release_note = "Resmi Docker Hub'dan holyarrs v1.1.4 sürümünü içerir"
+
+[zh-cn]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "看一部剧曾需要六个应用，现在只需一个。HolyArrs 是一款集剧集、电影和音乐于一体的自托管应用。"
+release_note = "捆绑来自官方 Docker Hub 的 holyarrs v1.1.4"
+
+[zh-hk]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "睇一套劇曾需要六個應用程式，依家只需一個。HolyArrs 係一款集劇集、電影同音樂於一身嘅自託管應用程式。"
+release_note = "整合來自官方 Docker Hub 的 holyarrs v1.1.4"
+
+[cs-cz]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Šest aplikací na sledování jednoho seriálu. Teď stačí jedna. HolyArrs je samostatně hostovaná aplikace pro vaše seriály, filmy a hudbu."
+release_note = "Obsahuje holyarrs v1.1.4 z oficiálního Docker Hubu"
+
+[da-dk]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Seks apps til at se en serie. Nu er der kun én. HolyArrs er én selvhostet app til dine serier, film og musik."
+release_note = "Indeholder holyarrs v1.1.4 fra den officielle Docker Hub"
+
+[nl-nl]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Zes apps om een serie te kijken. Nu is het er één. HolyArrs is één zelf-gehoste app voor al je series, films en muziek."
+release_note = "Bevat holyarrs v1.1.4 van de officiële Docker Hub"
+
+[nb-no]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Seks apper for å se en serie. Nå er det bare én. HolyArrs er én selvhostet app for serier, filmer og musikk."
+release_note = "Inkluderer holyarrs v1.1.4 fra den offisielle Docker Hub"
+
+[sv-se]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Sex appar för att se en serie. Nu är det en. HolyArrs är en egenhostad app för dina serier, filmer och din musik."
+release_note = "Inkluderar holyarrs v1.1.4 från officiella Docker Hub"
+
+[el-gr]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Έξι εφαρμογές για να δείτε μια σειρά. Τώρα είναι μία. Το HolyArrs είναι μια αυτοφιλοξενούμενη εφαρμογή για τις σειρές, τις ταινίες και τη μουσική σας."
+release_note = "Περιλαμβάνει το holyarrs v1.1.4 από το επίσημο Docker Hub"
+
+[ro-ro]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Șase aplicații pentru a urmări un serial. Acum este una singură. HolyArrs este o aplicație auto-găzduită pentru serialele, filmele și muzica ta."
+release_note = "Include holyarrs v1.1.4 de pe Docker Hub oficial"
+
+[th-th]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "เคยต้องใช้หกแอปเพื่อดูซีรีส์เรื่องเดียว ตอนนี้เหลือแค่แอปเดียว HolyArrs คือแอปโฮสต์เองหนึ่งเดียวสำหรับซีรีส์ ภาพยนตร์ และเพลงของคุณ"
+release_note = "รวม holyarrs v1.1.4 จาก Docker Hub อย่างเป็นทางการ"
+
+[vi-vn]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Từng cần sáu ứng dụng để xem một bộ phim. Giờ chỉ cần một. HolyArrs là ứng dụng tự lưu trữ tất cả trong một cho phim bộ, phim lẻ và âm nhạc của bạn."
+release_note = "Tích hợp sẵn holyarrs v1.1.4 từ Docker Hub chính thức"
+
+[id-id]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "Enam aplikasi untuk menonton satu acara. Sekarang cukup satu. HolyArrs adalah satu aplikasi self-hosted untuk acara TV, film, dan musik Anda."
+release_note = "Menyertakan holyarrs v1.1.4 dari Docker Hub resmi"
+
+[ar-sa]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "ستة تطبيقات لمشاهدة مسلسل واحد. الآن أصبح تطبيقاً واحداً. HolyArrs هو تطبيق واحد مستضاف ذاتياً لمسلسلاتك وأفلامك وموسيقاك."
+release_note = "يتضمن holyarrs v1.1.4 من Docker Hub الرسمي"
+
+[he-il]
+name = "HolyArrs"
+auth = "CoderLuii"
+descript = "שש אפליקציות כדי לצפות בסדרה. עכשיו יש רק אחת. HolyArrs היא אפליקציה אחת באירוח עצמי עבור הסדרות, הסרטים והמוזיקה שלך."
+release_note = "כולל את holyarrs v1.1.4 מ-Docker Hub הרשמי"
